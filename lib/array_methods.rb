@@ -1,6 +1,6 @@
 def using_include(array, element)
   letter = ["a","b","c","d"]
-  
+  letter.inlude?
 
 end
 
